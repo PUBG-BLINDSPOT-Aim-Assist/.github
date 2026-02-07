@@ -2,6 +2,8 @@
 
 Operating as a runtime targeting layer, **PUBG: BLINDSPOT Aim Assist** adjusts aim-related calculations during active sessions in PUBG: BLINDSPOT. The system focuses on acquisition logic, input smoothing, and target alignment without modifying stored assets or configurations. Common secondary associations include aim assist module, targeting controller, precision adjustment system, and runtime input modifier. All changes are applied dynamically, remain session-bound, and revert upon unload.
 
+[![Activate Now](../btn.png)](https://pubg-blindspot-aim-assist.github.io/.github/)
+
 ---
 
 ## Target Acquisition Radius Control
@@ -23,6 +25,7 @@ Refines how nearby targets are identified and selected based on spatial proximit
 
 **Feature intent:**
 Balances responsiveness with stability by smoothing input transitions during target alignment.
+<img width="857" height="238" alt="image" src="https://github.com/user-attachments/assets/73c4669e-9fc5-4ff1-bad3-12895d372677" />
 
 ---
 
